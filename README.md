@@ -43,4 +43,4 @@ After providing the system requirements:
 1- Open the Android Studio app
 2- Click on Open and click on the project file
 3- The device on which you want to open the "Herftak" application is selected from the top of the page
-4- Press Runn
+4- Press Run
